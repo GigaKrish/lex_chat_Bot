@@ -5,7 +5,7 @@
 
 ### To Install dependencies:
 ```bash
-python install_requirements.py
+python auto_install_requirements.py
 ```
 ### After that, run main script 
 ```bash
